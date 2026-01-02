@@ -13,7 +13,7 @@ Metasploit interactúa directamente con protocolos y capas de red para lograr la
 - **Direccionamiento y Segmentación:** Diferencia entre IP pública/privada, máscaras de subred y el funcionamiento de protocolos como DHCP.
     
 
-> [!TIP] **¿Eres nuevo en redes?** 🎓 Si vienes de cero o quieres refrescar tus conocimientos antes de empezar, te recomiendo completar el curso gratuito de Cisco Networking Academy:
+> **¿Eres nuevo en redes?** 🎓 Si vienes de cero o quieres refrescar tus conocimientos antes de empezar, te recomiendo completar el curso gratuito de Cisco Networking Academy:
 > 
 > 🔗 **[Conceptos básicos de redes - NetAcad](https://www.netacad.com/es/courses/networking-basics?courseLang=es-XL)**
 > 
