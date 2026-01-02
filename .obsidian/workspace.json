@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca275425b1d122e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit_Escaneo_de_aplicaciones_web.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metasploit_Escaneo_de_aplicaciones_web"
-            }
-          },
-          {
             "id": "ec1dbb6b10f03b44",
             "type": "leaf",
             "state": {
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "7937a256bbaea460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit_Desarrollar_modulos.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metasploit_Desarrollar_modulos"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metasploit_Desarrollar_modulos.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Metasploit_Desarrollar_modulos"
+              "title": "Enlaces entrantes de README"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metasploit_Desarrollar_modulos.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Metasploit_Desarrollar_modulos"
+              "title": "Enlaces salientes de README"
             }
           },
           {
@@ -185,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metasploit_Desarrollar_modulos.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Metasploit_Desarrollar_modulos"
+              "title": "Esquema de README"
             }
           }
         ]
@@ -213,9 +184,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7937a256bbaea460",
+  "active": "ec1dbb6b10f03b44",
   "lastOpenFiles": [
+    "Metasploit_Escaneo_de_aplicaciones_web.md",
     "README.md",
+    "Metasploit_Desarrollar_modulos.md",
     "Metasploit_Extension_del_desarrollo_de_Metasploit_y_exploits.md",
     "Metasploit_Evasión_de_antivirus_y_antiforense.md",
     "Metasploit_Ataques_del_lado_del_cliente.md",
@@ -230,7 +203,6 @@
     "Metasploit_Estructura_interna.md",
     "Metasploit_Inicializacion_correcta_de_Metasploit.md",
     "Metasploit_Metodologia_de_seleccion_de_modulos.md",
-    "Metasploit_Escaneo_de_aplicaciones_web.md",
     "Adjuntos/Banner_Metasploit.jpg"
   ]
 }

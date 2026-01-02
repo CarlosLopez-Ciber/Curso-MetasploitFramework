@@ -430,7 +430,7 @@ Cuando se obtiene una _Meterpreter shell_ y se interactúa con el sistema de arc
 
 - **Sintaxis y Opciones de Timestomp:**
     
-     ![[Adjuntos/Pasted image 20250621131705.png]]
+     ![[Pasted image 20250621131705.png]]
     - **Opciones Clave:**
         - `-a <opt>`: Establece la hora de "último acceso" del archivo.
         - `-c <opt>`: Establece la hora de "creación" del archivo.
@@ -440,13 +440,13 @@ Cuando se obtiene una _Meterpreter shell_ y se interactúa con el sistema de arc
 - **Ejemplo Práctico de Manipulación de Timestamps:**
     
     1. **Estado Inicial:** Considérese un archivo `Confidential.txt` en el sistema objetivo. Antes de la manipulación, sus propiedades muestran _timestamps_ originales. 
-       ![[Adjuntos/Pasted image 20250621131754.png]]
+       ![[Pasted image 20250621131754.png]]
     2. **Explotación y Obtención de Meterpreter:** Se explota una vulnerabilidad, como `SMB MS08_67_netapi`, para obtener una _Meterpreter shell_ en el sistema objetivo. 
-       ![[Adjuntos/Pasted image 20250621131820.png]]
+       ![[Pasted image 20250621131820.png]]
     3. **Uso de Timestomp:** Dentro de la sesión Meterpreter, se ejecuta el comando `timestomp` para modificar los _timestamps_ del archivo `Confidential.txt`.
         - **Comando:** `timestomp Confidential.txt -c "02/10/2014 10:10:10"`
         - **Objetivo:** Modificar la fecha de creación a una fecha anterior (2 de octubre de 2014, 10:10:10 AM).
-          ![[Adjuntos/Pasted image 20250621131836.png]]
+          ![[Pasted image 20250621131836.png]]
     4. **Verificación Post-Modificación:** Al revisar las propiedades del archivo `Confidential.txt` en el sistema comprometido, se observan los _timestamps_ alterados. (Referencia: Figura 8.16 – Checking file properties using the timestamp - Muestra "Created: Thursday, October 02, 2014, 10:10:10 AM")
 
 Mediante Timestomp, se logra una efectiva ofuscación de la línea de tiempo de la actividad del atacante.
@@ -465,16 +465,16 @@ Consideremos un escenario en el que se ha comprometido un host Windows, se han s
 
 - **Visualización de Registros de Eventos (Estado Inicial):**
     
-    - La siguiente imagen muestra la aplicación **Visor de Eventos de Windows**, donde se almacenan y visualizan todos los registros: ![[Adjuntos/Pasted image 20250621132027.png]]
+    - La siguiente imagen muestra la aplicación **Visor de Eventos de Windows**, donde se almacenan y visualizan todos los registros: ![[Pasted image 20250621132027.png]]
 - **Ejemplo Práctico de Borrado de Registros con Clearev:**
     
     1. **Compromiso y Acceso a Meterpreter:** Se obtiene acceso a una _Meterpreter shell_ en el sistema Windows comprometido, por ejemplo, utilizando la vulnerabilidad `SMB MS08_67_netapi`. 
-       ![[Adjuntos/Pasted image 20250621132050.png]]
+       ![[Pasted image 20250621132050.png]]
     2. **Ejecución de Clearev:** Dentro de la sesión Meterpreter, se ejecuta el comando `clearev`.
         - **Comando:** `clearev`
         - **Acción:** Este comando instruye a Meterpreter para que acceda y borre las entradas de los registros de Aplicación, Seguridad y Sistema en el host comprometido. 
         - **Nota Técnica:** El mensaje `stdapi_sys_eventlog_open: Operation failed: 1314` indica que, aunque se intentó limpiar los _event logs_, hubo un fallo en la operación para algunos (posiblemente por permisos o porque el log ya estaba vacío). Sin embargo, los mensajes `Wiping X records from Application...` y `Wiping X records from System...` confirman que la operación tuvo éxito para una gran cantidad de entradas.
     3. **Verificación Post-Limpieza:** Al regresar al Visor de Eventos en el sistema Windows comprometido, se verifica que la mayoría de los registros han sido eliminados. 
-       ![[Adjuntos/Pasted image 20250621132108.png]]
+       ![[Pasted image 20250621132108.png]]
 
 En síntesis, `clearev` dentro de Meterpreter es una herramienta eficaz para erradicar las huellas digitales de la actividad del atacante en los registros de eventos del sistema objetivo.

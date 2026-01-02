@@ -66,7 +66,7 @@ En escenarios donde se requiere operar con una base de datos o un servicio de da
 - **Comando:** `db_connect -h`
 - **Propósito:** Muestra la sintaxis y las opciones disponibles para conectar Metasploit a distintas bases de datos o servicios de datos.
 - **Ejemplo de Uso y Opciones:** 
-  ![[Adjuntos/Pasted image 20250622012107.png]]
+  ![[Pasted image 20250622012107.png]]
     - **Para PostgreSQL:**
         - Conexión básica: `db_connect user:password@host:port/database`
         - Ejemplos: `db_connect user@metasploit3`, `db_connect user:pass@192.168.0.2:1500/metasploit3`
