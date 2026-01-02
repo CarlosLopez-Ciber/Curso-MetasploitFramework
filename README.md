@@ -1,4 +1,4 @@
-![](<Banner_Metasploit.jpg>)
+![Banner](<Banner_Metasploit.jpg>)
 
 # Metasploit Framework
 
@@ -11,7 +11,7 @@ El **Metasploit Framework** es una **plataforma de código abierto** fundamental
 5. [Metasploit\_Comando\_basicos](<Metasploit_Comando_basicos.md>)
 6. [Metasploit\_Tipos\_de\_Modulos](<Metasploit_Tipos_de_Modulos.md>)
 7. [Metasploit\_Busqueda\_Configuracion\_y\_Lanzamiento](<Metasploit_Busqueda_Configuracion_y_Lanzamiento.md>)
-8. [Metasploit\_Gestion\_Espacios\_Trabajo](<Metasploit_Gestion_Espacios_Trabajo.md>)p
+8. [Metasploit\_Gestion\_Espacios\_Trabajo](<Metasploit_Gestion_Espacios_Trabajo.md>)
 9. [Metasploit\_MSFVenom](<Metasploit_MSFVenom.md>)
 10. [Metasploit\_Recopilacion\_de\_informacion\_y\_enumeracion](<Metasploit_Recopilacion_de_informacion_y_enumeracion.md>)
 11. [Metasploit\_Meterpreter](<Metasploit_Meterpreter.md>)
