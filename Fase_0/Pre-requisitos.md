@@ -1,0 +1,58 @@
+# Pre-requisitos
+
+Para aprovechar al máximo este curso y comprender qué sucede "detrás de escena" en cada exploit, es recomendable contar con la siguiente base:
+
+#### **1. Fundamentos de Redes (Networking)**
+
+Metasploit interactúa directamente con protocolos y capas de red para lograr la explotación. Es fundamental que comprendas:
+
+- **Modelo OSI y TCP/IP:** Cómo se encapsulan los datos y el flujo de comunicación entre dispositivos.
+    
+- **Protocolos Esenciales:** Funcionamiento de servicios como HTTP/HTTPS, SMB (muy común en exploits de Windows), SSH, FTP y DNS.
+    
+- **Direccionamiento y Segmentación:** Diferencia entre IP pública/privada, máscaras de subred y el funcionamiento de protocolos como DHCP.
+    
+
+> [!TIP] **¿Eres nuevo en redes?** 🎓 Si vienes de cero o quieres refrescar tus conocimientos antes de empezar, te recomiendo completar el curso gratuito de Cisco Networking Academy:
+> 
+> 🔗 **[Conceptos básicos de redes - NetAcad](https://www.netacad.com/es/courses/networking-basics?courseLang=es-XL)**
+> 
+> **¿Qué aprenderás en esas 22 horas?**
+> 
+> - Direccionamiento **IPv4**.
+>     
+> - Tipos de redes y estándares de protocolos.
+>     
+> - Servicios de la capa de aplicación.
+>     
+> - Medios de red y acceso inalámbrico.
+>     
+> 
+> Tener estas bases te permitirá entender **por qué** y **cómo** funcionan los ataques que realizaremos en los laboratorios.
+
+#### **2. Sistemas Operativos y Consola**
+
+- **Línea de comandos (CLI):** Manejo fluido de la terminal Linux (navegación de directorios, gestión de permisos con `chmod`, visualización de procesos).
+    
+- **Administración básica:** Conceptos básicos de cómo Windows y Linux gestionan usuarios, servicios y registros del sistema.
+    
+
+#### **3. Entorno de Laboratorio (Hardware y Software)**
+
+- **Hipervisor:** Tener instalado **VirtualBox** o **VMware Player/Workstation**.
+    
+- **Máquina Atacante:** Recomiendo **Kali Linux** o **Parrot Security OS**, ya que vienen con Metasploit preinstalado y configurado.
+    
+- **Recursos de Hardware:** Un mínimo de **4GB de RAM** (8GB recomendado) para correr al menos dos máquinas virtuales simultáneamente (Atacante + Víctima).
+    
+
+#### **4. Ética y Responsabilidad (¡Importante!)**
+
+El uso de Metasploit debe realizarse exclusivamente en entornos controlados, laboratorios personales o bajo autorización explícita mediante un contrato de Pentesting.
+
+> **Advertencia:** El uso de estas herramientas contra sistemas sin autorización es ilegal y acarrea consecuencias penales.
+
+
+- **Lectura de código (Opcional):** No necesitas ser programador, pero tener nociones básicas de **Ruby** (lenguaje en el que está escrito Metasploit) te ayudará a entender cómo funcionan los archivos de configuración y los scripts de automatización.
+
+
