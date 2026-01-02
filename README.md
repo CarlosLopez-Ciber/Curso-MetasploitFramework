@@ -8,7 +8,7 @@ Es la herramienta favorita de quienes inician porque **simplifica lo complejo**:
 
 ### **¿Por qué es ideal para aprender?** 
 
-Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con la metodología **PTES (Penetration Testing Execution Standard)**. Esta estructura te guía paso a paso: desde que conoces a tu objetivo (recolección de información), hasta que logras entrar y mantener el acceso (post-explotación). ¡Es la mejor forma de aprender a pensar como un hacker ético profesional!
+Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con la metodología **[PTES (Penetration Testing Execution Standard)](http://www.pentest-standard.org/index.php/Main_Page)**. Esta estructura te guía paso a paso: desde que conoces a tu objetivo (recolección de información), hasta que logras entrar y mantener el acceso (post-explotación). ¡Es la mejor forma de aprender a pensar como un hacker ético profesional!
 
 > ##### "¡No olvides dejar tu ⭐ si el curso te resulta útil! Es la mejor forma de apoyar este proyecto."
 
