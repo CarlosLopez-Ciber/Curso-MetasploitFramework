@@ -1,3 +1,4 @@
+![Banner_Metasploit](../Adjuntos/Banner_Metasploit.jpg)
 # Metodologia de seleccion de modulos
 En un **proceso completo de pentesting**, Metasploit Framework puede apoyar diversas fases: desde el reconocimiento inicial hasta la explotación de vulnerabilidades y las tareas posteriores. Aunque Metasploit es conocido principalmente por la fase de **explotación**, también incluye numerosos módulos para **recolección de información** y **post-explotación**. 
 ## Reconocimiento (Reconocimiento Pasivo)
