@@ -18,7 +18,7 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 
 #### 📁 Fase 0: Preparación
 - [Pre-requisitos](./Fase_0/Pre-requisitos.md)
-- [Lista_Laboratorios](./Fase_0/Lista_Laboratorios.md)
+- [Laboratorios y Entornos de Práctica (CTFs)](./Fase_0/Laboratorios_y_Entornos_de_Practica_(CTFs).md)
 
 
 
