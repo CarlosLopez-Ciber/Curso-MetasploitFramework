@@ -16,6 +16,11 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 
 # Road Map
 
+#### 📁 Fase 0: Pre-requisitos
+
+
+
+
 1. [Metodologia de seleccion de modulos](./Notas/Metasploit_Metodologia_de_seleccion_de_modulos.md)
 2. [Metasploit Estructura interna](./Notas/Metasploit_Estructura_interna.md)
 3. [Metasploit Inicializacion correcta de Metasploit](./Notas/Metasploit_Inicializacion_correcta_de_Metasploit.md)
