@@ -41,6 +41,21 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 
 
 ---
+### **📚 Referencia Oficial y Recursos**
+
+Este curso ha sido diseñado para ofrecer una ruta de aprendizaje práctica, lógica y estructurada. Sin embargo, el mundo de la ciberseguridad evoluciona rápidamente y **nada sustituye a la fuente primaria de información**.
+
+> [!IMPORTANT]
+> 
+> Este material no busca reemplazar la documentación oficial de Metasploit. Al contrario, invito a los lectores a utilizarla en conjunto con este curso. A lo largo de los módulos, haré referencias directas a ella cuando sea pertinente.
+
+- 📖 **[Metasploit Documentation](https://docs.metasploit.com/):** El manual mantenido por **Rapid7**.
+    
+- 💻 **[Metasploit GitHub](https://github.com/rapid7/metasploit-framework):** Repositorio oficial donde puedes ver el código fuente de cada módulo.
+    
+- 💬 **[Slack de Metasploit](https://metasploit.slack.com/ssb/redirect):** Comunidad oficial para interactuar con otros investigadores de seguridad.
+
+---
 
 # 🤝 **Contribución y Feedback**
 
