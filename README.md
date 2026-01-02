@@ -60,3 +60,4 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 > **Nota:** Al ser un proyecto enfocado en el aprendizaje ético, asegúrate de que todas las contribuciones sigan las mejores prácticas de la comunidad de seguridad informática.
 
 
+> ##### "¡No olvides dejar tu ⭐ si el curso te resulta útil! Es la mejor forma de apoyar este proyecto."
