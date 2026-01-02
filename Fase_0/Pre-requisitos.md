@@ -44,9 +44,9 @@ Metasploit interactúa directamente con protocolos y capas de red para lograr la
 
 #### **3. Entorno de Laboratorio (Hardware y Software)**
 
-- **Hipervisor:** Tener instalado **VirtualBox** o **VMware Player/Workstation**.
+- **Hipervisor:** Tener instalado **[VirtualBox](https://www.virtualbox.org/)** o **VMware Player/Workstation**.
     
-- **Máquina Atacante:** Recomiendo **Kali Linux** o **Parrot Security OS**, ya que vienen con Metasploit preinstalado y configurado.
+- **Máquina Atacante:** Recomiendo **[Kali Linux](https://www.kali.org/)** o **[Parrot Security OS](https://parrotsec.org/)**, ya que vienen con Metasploit preinstalado y configurado.
     
 - **Recursos de Hardware:** Un mínimo de **4GB de RAM** (8GB recomendado) para correr al menos dos máquinas virtuales simultáneamente (Atacante + Víctima).
     

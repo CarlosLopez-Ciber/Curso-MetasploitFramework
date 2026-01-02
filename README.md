@@ -17,7 +17,7 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 # Road Map
 
 #### 📁 Fase 0: Pre-requisitos
-
+- [Pre-requisitos](./Fase_0/Pre-requisitos.md)
 
 
 
