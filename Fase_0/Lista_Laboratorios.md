@@ -39,19 +39,3 @@ Una vez que domines los conceptos básicos con Metasploitable, puedes expandir t
 - 🌐 **[Vulnyx](https://vulnyx.com/):** Excelente plataforma con laboratorios enfocados en sistemas Linux y Windows.
     
 - 🌐 **[HackMyVM](https://hackmyvm.eu/):** Una comunidad creciente con máquinas de diversos niveles de dificultad.
-    
-
----
-
-### **¿Por qué estos cambios mejoran tu texto?**
-
-1. **Contexto Técnico:** Añadimos por qué Metasploitable 2 es importante, citando que es un estándar para aprender el framework.
-    
-2. **Seguridad:** Incluimos una nota sobre la importancia de las **redes aisladas**, algo vital en ciberseguridad para evitar riesgos innecesarios en la red real del estudiante.
-    
-3. **Formato Visual:** El uso de iconos (📺, 🌐, 🧪) y bloques de notas (`[!NOTE]`) hace que el documento sea mucho más fácil de leer en GitHub.
-    
-4. **Llamada a la Acción:** Al presentar VulnHub y otras plataformas como "pasos siguientes", motivas al estudiante a terminar tu curso para poder enfrentarse a esos retos.
-    
-
-¿Te gustaría que añadiera una pequeña tabla con los **usuarios y contraseñas por defecto** de Metasploitable 2 para que los alumnos no se queden trabados al iniciar la máquina?
