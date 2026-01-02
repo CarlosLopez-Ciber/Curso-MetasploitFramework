@@ -2,7 +2,7 @@
 
 **MSFVenom** es la **herramienta principal de Metasploit Framework para la generación de _payloads_**. Esta utilidad consolida las capacidades de sus predecesoras, `msfpayload` y `msfencode`, ofreciendo una solución unificada para **crear _payloads_ altamente personalizables y ofuscarlos** con el fin de evadir la detección por _software_ antivirus (AV).
 
-> [[Metasploit - MSFvenom -h]]
+> [Metasploit - MSFvenom -h](<Metasploit - MSFvenom -h.md>)
 ## **1. Funciones Principales de MSFVenom**
 
 MSFVenom es indispensable para el _pentesting_ y las evaluaciones de seguridad, gracias a sus diversas funciones:

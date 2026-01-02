@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,10 +186,12 @@
   },
   "active": "ec1dbb6b10f03b44",
   "lastOpenFiles": [
-    "Metasploit_Escaneo_de_aplicaciones_web.md",
+    "Metasploit_Tipos_de_Modulos.md",
+    "Metasploit - Exploit.md",
     "README.md",
-    "Metasploit_Desarrollar_modulos.md",
     "Metasploit_Extension_del_desarrollo_de_Metasploit_y_exploits.md",
+    "Metasploit_Escaneo_de_aplicaciones_web.md",
+    "Metasploit_Desarrollar_modulos.md",
     "Metasploit_Evasión_de_antivirus_y_antiforense.md",
     "Metasploit_Ataques_del_lado_del_cliente.md",
     "Metasploit_Meterpreter.md",
@@ -197,7 +199,6 @@
     "Metasploit_MSFVenom.md",
     "Metasploit_Gestion_Espacios_Trabajo.md",
     "Metasploit_Busqueda_Configuracion_y_Lanzamiento.md",
-    "Metasploit_Tipos_de_Modulos.md",
     "Metasploit_Comando_basicos.md",
     "Metasploit_Help.md",
     "Metasploit_Estructura_interna.md",
