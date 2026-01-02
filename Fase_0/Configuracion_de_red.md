@@ -18,7 +18,9 @@ Este es el modo ideal. Permite que tus máquinas virtuales se comuniquen entre s
 #### **En VirtualBox:**
 
 1. Ve a **Archivo** > **Herramientas** > **Red**.
+
     ![](../Adjuntos/Pasted%20image%2020260102162327.png)
+    
 2. Selecciona "Redes NAT" y luego dale a "Crear". Esto creará una nueva red (por defecto se llamará `NatNetwork`).
     ![](../Adjuntos/Pasted%20image%2020260102162448.png)
 3. En **Configuración** de cada VM (**Kali** y **Metasploitable**):
