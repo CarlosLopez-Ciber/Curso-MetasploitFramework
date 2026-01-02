@@ -13,7 +13,8 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 > ##### "¡No olvides dejar tu ⭐ si el curso te resulta útil! Es la mejor forma de apoyar este proyecto."
 
 ![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-green)  ![Idioma](https://img.shields.io/badge/Idioma-Español-red)
-### Índice
+
+# Road Map
 
 1. [Metodologia de seleccion de modulos](./Notas/Metasploit_Metodologia_de_seleccion_de_modulos.md)
 2. [Metasploit Estructura interna](./Notas/Metasploit_Estructura_interna.md)
@@ -31,3 +32,31 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 14. [Metasploit Evasión de antivirus y antiforense](./Notas/Metasploit_Evasión_de_antivirus_y_antiforense.md)
 15. [Metasploit Extension del desarrollo de Metasploit y exploits](./Notas/Metasploit_Extension_del_desarrollo_de_Metasploit_y_exploits.md)
 16. [Metasploit Desarrollar modulos](./Notas/Metasploit_Desarrollar_modulos.md)
+
+
+---
+
+# 🤝 **Contribución y Feedback**
+
+¡Este proyecto es de código abierto y tu ayuda es bienvenida! Como estudiante de ciberseguridad, sé que las herramientas y técnicas cambian constantemente, por lo que la colaboración es clave para mantener este curso actualizado.
+
+¿Cómo puedes participar?
+
+- **🐛 Reportar errores (Issues):** Si encuentras un comando que ya no funciona, un error tipográfico o crees que falta alguna aclaración técnica, por favor [abre un Issue aquí](https://github.com/CarlosLopez-Ciber/Curso-MetasploitFramework/issues).
+    
+- **💡 Sugerencias:** ¿Tienes alguna idea para un nuevo módulo o laboratorio? Me encantaría leerla en la sección de Issues.
+    
+- **🛠️ Pull Requests:** Si quieres corregir algo directamente o añadir tus propios apuntes y técnicas de laboratorio, ¡envía un Pull Request!
+    
+    1. Haz un _Fork_ del repositorio.
+        
+    2. Crea una rama para tu mejora (`git checkout -b mejora-curso`).
+        
+    3. Haz tus cambios y un _Commit_ claro.
+        
+    4. Envía el _Pull Request_ para que lo revisemos juntos.
+        
+
+> **Nota:** Al ser un proyecto enfocado en el aprendizaje ético, asegúrate de que todas las contribuciones sigan las mejores prácticas de la comunidad de seguridad informática.
+
+
