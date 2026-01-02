@@ -4,6 +4,8 @@
 
 El **Metasploit Framework** es una **plataforma de código abierto** fundamental en el ámbito de la ciberseguridad, diseñada para el **desarrollo, prueba y ejecución de _exploits_** contra sistemas remotos. Constituye una herramienta esencial para **_pentesters_ (probadores de penetración)**, **red teamers** y **profesionales de seguridad**, permitiéndoles **identificar, validar y explotar vulnerabilidades** de manera controlada y ética, así como evaluar la postura de seguridad de infraestructuras tecnológicas.
 
+> ##### "¡No olvides dejar tu ⭐ si el curso te resulta útil! Es la mejor forma de apoyar este proyecto."
+
 1. [Metodologia de seleccion de modulos](./Notas/Metasploit_Metodologia_de_seleccion_de_modulos.md)
 2. [Metasploit\_Estructura\_interna](./Notas/Metasploit_Estructura_interna.md)
 3. [Metasploit\_Inicializacion\_correcta\_de\_Metasploit](./Notas/Metasploit_Inicializacion_correcta_de_Metasploit.md)
