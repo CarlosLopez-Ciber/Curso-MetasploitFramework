@@ -44,7 +44,7 @@ Metasploit interactúa directamente con protocolos y capas de red para lograr la
 
 #### **3. Entorno de Laboratorio (Hardware y Software)**
 
-- **Hipervisor:** Tener instalado **[VirtualBox](https://www.virtualbox.org/)** o **VMware Player/Workstation**.
+- **Hipervisor:** Tener instalado **[VirtualBox](https://www.virtualbox.org/)** o **[VMware Player/Workstation](https://www.vmware.com/)**.
     
 - **Máquina Atacante:** Recomiendo **[Kali Linux](https://www.kali.org/)** o **[Parrot Security OS](https://parrotsec.org/)**, ya que vienen con Metasploit preinstalado y configurado.
     
