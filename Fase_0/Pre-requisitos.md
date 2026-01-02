@@ -17,7 +17,7 @@ Metasploit interactúa directamente con protocolos y capas de red para lograr la
 > 
 > 🔗 **[Conceptos básicos de redes - NetAcad](https://www.netacad.com/es/courses/networking-basics?courseLang=es-XL)**
 > 
-> **¿Qué aprenderás en esas 22 horas?**
+> **¿Qué aprenderás?**
 > 
 > - Direccionamiento **IPv4**.
 >     
@@ -32,10 +32,15 @@ Metasploit interactúa directamente con protocolos y capas de red para lograr la
 
 #### **2. Sistemas Operativos y Consola**
 
-- **Línea de comandos (CLI):** Manejo fluido de la terminal Linux (navegación de directorios, gestión de permisos con `chmod`, visualización de procesos).
+- **Línea de comandos (CLI):** Manejo fluido de la terminal Linux.
     
 - **Administración básica:** Conceptos básicos de cómo Windows y Linux gestionan usuarios, servicios y registros del sistema.
-    
+
+> **¿Aún no dominas la terminal de Linux?** 🐧 Si nunca has usado Linux o quieres profundizar antes de entrar a Metasploit, este curso gratuito de Cisco en colaboración con el Network Development Group (NDG) es el mejor punto de partida:
+> 
+> 🔗 **[Fundamentos de Linux - NetAcad](https://www.netacad.com/es/courses/fundamentos-de-linux?courseLang=es-XL)**
+>
+> Aprender Linux no solo te servirá para Metasploit, sino que es la base fundamental para cualquier carrera en Ciberseguridad.
 
 #### **3. Entorno de Laboratorio (Hardware y Software)**
 
