@@ -2,10 +2,9 @@
 
 ![Banner_Metasploit](./Adjuntos/Banner_Metasploit.jpg)
 
-
 El **Metasploit Framework** es una **herramienta de código abierto** básica en el ámbito de la ciberseguridad. Si estás dando tus primeros pasos en el mundo del **Pentesting**, es imposible no cruzarte con **Metasploit**.
 
-Originalmente creado por H.D. Moore y actualmente desarrollado y mantenido por la empresa **[Rapid7](https://www.rapid7.com/)**, Metasploit es el estándar de la industria. Es la herramienta favorita de quienes inician porque **simplifica lo complejo**: en lugar de escribir cada código de ataque desde cero, Metasploit te ofrece una estructura modular donde solo tienes que elegir el "arma" (exploit) y el "objetivo" (payload).
+Es la herramienta favorita de quienes inician porque **simplifica lo complejo**: en lugar de escribir cada código de ataque desde cero, Metasploit te ofrece una estructura modular donde solo tienes que elegir el "arma" (exploit) y el "objetivo" (payload).
 
 ### **¿Por qué es ideal para aprender?** 
 
