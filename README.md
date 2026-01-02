@@ -16,8 +16,9 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 
 # Road Map
 
-#### 📁 Fase 0: Pre-requisitos
+#### 📁 Fase 0: Preparación
 - [Pre-requisitos](./Fase_0/Pre-requisitos.md)
+- [Lista_Laboratorios](./Fase_0/Lista_Laboratorios.md)
 
 
 
