@@ -7,6 +7,7 @@ El **Metasploit Framework** es una **plataforma de código abierto** fundamental
 
 > ##### "¡No olvides dejar tu ⭐ si el curso te resulta útil! Es la mejor forma de apoyar este proyecto."
 
+![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-green)  ![Idioma](https://img.shields.io/badge/Idioma-Español-red)
 ### Índice
 
 1. [Metodologia de seleccion de modulos](./Notas/Metasploit_Metodologia_de_seleccion_de_modulos.md)
