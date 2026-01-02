@@ -6,7 +6,7 @@
   "shouldAutomaticallyUpdateLinksOnRenameOrMove": true,
   "shouldIncludeAttachmentExtensionToEmbedAlias": false,
   "shouldPreserveExistingLinkStyle": false,
-  "shouldUseAngleBrackets": true,
+  "shouldUseAngleBrackets": false,
   "shouldUseLeadingDotForRelativePaths": false,
   "shouldUseLeadingSlashForAbsolutePaths": false
 }
