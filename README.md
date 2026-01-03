@@ -22,8 +22,8 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 - [Configuración de red](./Fase_0/Configuracion_de_red.md)
 
 #### 📁 Fase 1: Fundamentos
-- [Estructura interna](./Notas/Estructura_interna.md)
-
+- [Estructura interna](./Fase_1/Estructura_interna.md)
+- [Interfaces de Metasploit Framework](./Fase_1/Interfaces_de_Metasploit_Framework.md)
 
 
 1. [Metodologia de seleccion de modulos](./Notas/Metasploit_Metodologia_de_seleccion_de_modulos.md)

@@ -6,7 +6,7 @@ Comprender cómo se organiza **Metasploit** es fundamental para cualquier _pente
 
 La ubicación depende de tu sistema operativo y el método de instalación. 
 
-**Para Kali Linux / Parrot OS:**
+**En Kali Linux / Parrot OS Metaploit viene instalada por defecto:**
 
 ```bash
 $ /usr/share/metasploit-framework/
@@ -26,7 +26,7 @@ $ /usr/share/metasploit-framework/
     find / -type d -name "metasploit-framework" 2>/dev/null
     ```
 
-
+> Puedes encontrar las diversas formas de instalación en la Documentación Oficial: [Nightly Installers](https://docs.metasploit.com/docs/using-metasploit/getting-started/nightly-installers.html)
 
 ---
 
