@@ -50,7 +50,7 @@ Este curso ha sido diseñado para ofrecer una ruta de aprendizaje práctica, ló
 
 > [!IMPORTANT]
 > 
-> Este material no busca reemplazar la documentación oficial de Metasploit. Al contrario, invito a los lectores a utilizarla en conjunto con este curso. A lo largo de los módulos, haré referencias directas a ella cuando sea pertinente.
+> Este material no busca reemplazar la documentación oficial de Metasploit. Al contrario, invito a los lectores a utilizarla en conjunto con este curso. A lo largo de los módulos, haré referencia directa a ella cuando sea pertinente.
 
 - 📖 **[Metasploit Documentation](https://docs.metasploit.com/):** El manual mantenido por **Rapid7**.
     
