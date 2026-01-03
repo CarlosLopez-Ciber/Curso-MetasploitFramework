@@ -25,7 +25,8 @@ $ /usr/share/metasploit-framework/
     ```bash
     find / -type d -name "metasploit-framework" 2>/dev/null
     ```
-    
+
+
 
 ---
 
