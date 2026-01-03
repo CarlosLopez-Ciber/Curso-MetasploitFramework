@@ -88,8 +88,8 @@ Este curso ha sido diseñado para ofrecer una ruta de aprendizaje práctica, ló
 
 ---
 
-> # ✍️ Sobre este Proyecto
-> 
-> Este curso nace de mi compromiso personal con el aprendizaje continuo y el deseo de transformar mis extensas notas de estudio, fruto de diversas lecturas y cursos, en un recurso estructurado para la comunidad. Soy un firme creyente de que **el conocimiento, en la medida de lo posible, debe ser libre**; compartir lo que aprendemos es el motor fundamental para el desarrollo mutuo y el crecimiento de la ciberseguridad en nuestro idioma.
-> 
-> **Nota de Transparencia:** Mi enfoque principal es técnico y no literario. Por ello, he utilizado herramientas de **Inteligencia Artificial** como asistentes editoriales para organizar el flujo de mis anotaciones originales y refinar la redacción, asegurando que el contenido sea claro, coherente y fácil de seguir para todos.
+# ✍️ Sobre este Proyecto
+
+Este curso nace de mi compromiso personal con el aprendizaje continuo y el deseo de transformar mis extensas notas de estudio, fruto de diversas lecturas y cursos, en un recurso estructurado para la comunidad. Soy un firme creyente de que **el conocimiento, en la medida de lo posible, debe ser libre**; compartir lo que aprendemos es el motor fundamental para el desarrollo mutuo y el crecimiento de la ciberseguridad en nuestro idioma.
+
+**Nota de Transparencia:** Mi enfoque principal es técnico y no literario. Por ello, he utilizado herramientas de **Inteligencia Artificial** como asistentes editoriales para organizar el flujo de mis anotaciones originales y refinar la redacción, asegurando que el contenido sea claro, coherente y fácil de seguir para todos.
