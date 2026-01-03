@@ -83,7 +83,7 @@ Usa siempre tu directorio local de usuario para tus creaciones personalizadas:
 
 ---
 
-> [!NOTE] Nota
+> [!NOTE]
 > 
 > Profundiza tus conocimientos: Para entender cómo navegar por el código fuente como un desarrollador, consulta la documentación oficial de Metasploit: [Navigating the codebase](https://docs.metasploit.com/docs/development/get-started/navigating-and-understanding-metasploits-codebase.html)
 
