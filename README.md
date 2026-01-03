@@ -24,23 +24,23 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 #### 📁 Fase 1: Fundamentos
 - [Estructura interna](./Fase_1/Estructura_interna.md)
 - [Interfaces de Metasploit Framework](./Fase_1/Interfaces_de_Metasploit_Framework.md)
+- [Inicializacion correcta de Metasploit](./Notas/Metasploit_Inicializacion_correcta_de_Metasploit.md)
 
 
 1. [Metodologia de seleccion de modulos](./Notas/Metasploit_Metodologia_de_seleccion_de_modulos.md)
-2. [Metasploit Inicializacion correcta de Metasploit](./Notas/Metasploit_Inicializacion_correcta_de_Metasploit.md)
-3. [Metasploit Help](./Notas/Metasploit_Help.md)
-4. [Metasploit Comando basicos](./Notas/Metasploit_Comando_basicos.md)
-5. [Metasploit Tipos de Modulos](./Notas/Metasploit_Tipos_de_Modulos.md)
-6. [Metasploit Busqueda Configuracion y Lanzamiento](./Notas/Metasploit_Busqueda_Configuracion_y_Lanzamiento.md)
-7. [Metasploit Gestion Espacios Trabajo](./Notas/Metasploit_Gestion_Espacios_Trabajo.md)
-8. [Metasploit MSFVenom](./Notas/Metasploit_MSFVenom.md)
-9. [Metasploit Recopilacion de informacion y enumeracion](./Notas/Metasploit_Recopilacion_de_informacion_y_enumeracion.md)
-10. [Metasploit Meterpreter](./Notas/Metasploit_Meterpreter.md)
-11. [Metasploit Ataques del lado del cliente](./Notas/Metasploit_Ataques_del_lado_del_cliente.md)
-12. [Metasploit Escaneo de aplicaciones web](./Notas/Metasploit_Escaneo_de_aplicaciones_web.md)
-13. [Metasploit Evasión de antivirus y antiforense](./Notas/Metasploit_Evasión_de_antivirus_y_antiforense.md)
-14. [Metasploit Extension del desarrollo de Metasploit y exploits](./Notas/Metasploit_Extension_del_desarrollo_de_Metasploit_y_exploits.md)
-15. [Metasploit Desarrollar modulos](./Notas/Metasploit_Desarrollar_modulos.md)
+2. [Metasploit Help](./Notas/Metasploit_Help.md)
+3. [Metasploit Comando basicos](./Notas/Metasploit_Comando_basicos.md)
+4. [Metasploit Tipos de Modulos](./Notas/Metasploit_Tipos_de_Modulos.md)
+5. [Metasploit Busqueda Configuracion y Lanzamiento](./Notas/Metasploit_Busqueda_Configuracion_y_Lanzamiento.md)
+6. [Metasploit Gestion Espacios Trabajo](./Notas/Metasploit_Gestion_Espacios_Trabajo.md)
+7. [Metasploit MSFVenom](./Notas/Metasploit_MSFVenom.md)
+8. [Metasploit Recopilacion de informacion y enumeracion](./Notas/Metasploit_Recopilacion_de_informacion_y_enumeracion.md)
+9. [Metasploit Meterpreter](./Notas/Metasploit_Meterpreter.md)
+10. [Metasploit Ataques del lado del cliente](./Notas/Metasploit_Ataques_del_lado_del_cliente.md)
+11. [Metasploit Escaneo de aplicaciones web](./Notas/Metasploit_Escaneo_de_aplicaciones_web.md)
+12. [Metasploit Evasión de antivirus y antiforense](./Notas/Metasploit_Evasión_de_antivirus_y_antiforense.md)
+13. [Metasploit Extension del desarrollo de Metasploit y exploits](./Notas/Metasploit_Extension_del_desarrollo_de_Metasploit_y_exploits.md)
+14. [Metasploit Desarrollar modulos](./Notas/Metasploit_Desarrollar_modulos.md)
 
 
 ---
