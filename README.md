@@ -33,10 +33,6 @@ Porque no se trata de lanzar ataques al azar. El uso de Metasploit se alinea con
 
 
 
-aaaaa
-
-
-
 
 1. [Metodologia de seleccion de modulos](./Notas/Metasploit_Metodologia_de_seleccion_de_modulos.md)
 2. [Metasploit Comando basicos](./Notas/Metasploit_Comando_basicos.md)
