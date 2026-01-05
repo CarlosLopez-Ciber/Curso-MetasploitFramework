@@ -1,39 +1,41 @@
 # Comando help
 `msf > help`
 
+
+Traducido al español:
 ### Comandos del Núcleo
 
-|Comando|Descripción|
-|---|---|
-|`?`|Menú de ayuda.|
-|`banner`|Muestra un increíble banner de Metasploit.|
-|`cd`|Cambia el directorio de trabajo actual.|
-|`color`|Activa o desactiva el color en la salida.|
-|`connect`|Se comunica con un host.|
-|`debug`|Muestra información útil para la depuración.|
-|`exit`|Sale de la consola.|
-|`features`|Muestra la lista de características aún no lanzadas a las que se puede optar.|
-|`get`|Obtiene el valor de una variable específica del contexto.|
-|`getg`|Obtiene el valor de una variable global.|
-|`grep`|Filtra la salida de otro comando (similar a `grep`).|
-|`help`|Menú de ayuda.|
-|`history`|Muestra el historial de comandos.|
-|`load`|Carga un plugin del framework.|
-|`quit`|Sale de la consola.|
-|`repeat`|Repite una lista de comandos.|
-|`route`|Enruta el tráfico a través de una sesión.|
-|`save`|Guarda los _datastores_ activos.|
-|`sessions`|Muestra listados de sesiones e información sobre ellas.|
-|`set`|Establece un valor para una variable específica del contexto.|
-|`setg`|Establece un valor para una variable global.|
-|`sleep`|No hace nada durante el número de segundos especificado.|
-|`spool`|Escribe la salida de la consola en un archivo además de en la pantalla.|
-|`threads`|Visualiza y manipula los hilos (_threads_) en segundo plano.|
-|`tips`|Muestra una lista de consejos de productividad útiles.|
-|`unload`|Descarga un plugin del framework.|
-|`unset`|Elimina el valor de una o más variables específicas del contexto.|
-|`unsetg`|Elimina el valor de una o más variables globales.|
-|`version`|Muestra los números de versión del framework y de la librería de la consola.|
+| Comando    | Descripción                                                                   |
+| ---------- | ----------------------------------------------------------------------------- |
+| `?`        | Menú de ayuda.                                                                |
+| `banner`   | Muestra un increíble banner de Metasploit.                                    |
+| `cd`       | Cambia el directorio de trabajo actual.                                       |
+| `color`    | Activa o desactiva el color en la salida.                                     |
+| `connect`  | Se comunica con un host.                                                      |
+| `debug`    | Muestra información útil para la depuración.                                  |
+| `exit`     | Sale de la consola.                                                           |
+| `features` | Muestra la lista de características aún no lanzadas a las que se puede optar. |
+| `get`      | Obtiene el valor de una variable específica del contexto.                     |
+| `getg`     | Obtiene el valor de una variable global.                                      |
+| `grep`     | Filtra la salida de otro comando (similar a `grep`).                          |
+| `help`     | Menú de ayuda.                                                                |
+| `history`  | Muestra el historial de comandos.                                             |
+| `load`     | Carga un plugin del framework.                                                |
+| `quit`     | Sale de la consola.                                                           |
+| `repeat`   | Repite una lista de comandos.                                                 |
+| `route`    | Enruta el tráfico a través de una sesión.                                     |
+| `save`     | Guarda los _datastores_ activos.                                              |
+| `sessions` | Muestra listados de sesiones e información sobre ellas.                       |
+| `set`      | Establece un valor para una variable específica del contexto.                 |
+| `setg`     | Establece un valor para una variable global.                                  |
+| `sleep`    | No hace nada durante el número de segundos especificado.                      |
+| `spool`    | Escribe la salida de la consola en un archivo además de en la pantalla.       |
+| `threads`  | Visualiza y manipula los hilos (_threads_) en segundo plano.                  |
+| `tips`     | Muestra una lista de consejos de productividad útiles.                        |
+| `unload`   | Descarga un plugin del framework.                                             |
+| `unset`    | Elimina el valor de una o más variables específicas del contexto.             |
+| `unsetg`   | Elimina el valor de una o más variables globales.                             |
+| `version`  | Muestra los números de versión del framework y de la librería de la consola.  |
 
 ### Comandos de Módulo
 
@@ -67,34 +69,34 @@
 
 ### Comandos de Scripts de Recursos
 
-|Comando|Descripción|
-|---|---|
-|`makerc`|Guarda en un archivo los comandos introducidos desde el inicio.|
-|`resource`|Ejecuta los comandos almacenados en un archivo.|
+| Comando    | Descripción                                                     |
+| ---------- | --------------------------------------------------------------- |
+| `makerc`   | Guarda en un archivo los comandos introducidos desde el inicio. |
+| `resource` | Ejecuta los comandos almacenados en un archivo.                 |
 
 ### Comandos del Backend de la Base de Datos
 
-|Comando|Descripción|
-|---|---|
-|`analyze`|Analiza información de la base de datos sobre una dirección o rango de direcciones específico.|
-|`certs`|Lista los paquetes de certificados Pkcs12 en la base de datos.|
-|`db_connect`|Se conecta a un servicio de datos existente.|
-|`db_disconnect`|Se desconecta del servicio de datos actual.|
-|`db_export`|Exporta un archivo con el contenido de la base de datos.|
-|`db_import`|Importa un archivo de resultados de escaneo (el tipo de archivo se detectará automáticamente).|
-|`db_nmap`|Ejecuta nmap y guarda la salida automáticamente.|
-|`db_rebuild_cache`|Reconstruye la caché de módulos almacenada en la base de datos (obsoleto).|
-|`db_remove`|Elimina la entrada guardada del servicio de datos.|
-|`db_save`|Guarda la conexión actual del servicio de datos como la predeterminada para reconectar al inicio.|
-|`db_stats`|Muestra estadísticas de la base de datos.|
-|`db_status`|Muestra el estado actual del servicio de datos.|
-|`hosts`|Lista todos los hosts en la base de datos.|
-|`klist`|Lista los tickets Kerberos en la base de datos.|
-|`loot`|Lista todo el _loot_ (botín) en la base de datos.|
-|`notes`|Lista todas las notas en la base de datos.|
-|`services`|Lista todos los servicios en la base de datos.|
-|`vulns`|Lista todas las vulnerabilidades en la base de datos.|
-|`workspace`|Cambia entre espacios de trabajo de la base de datos.|
+| Comando            | Descripción                                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------- |
+| `analyze`          | Analiza información de la base de datos sobre una dirección o rango de direcciones específico.    |
+| `certs`            | Lista los paquetes de certificados Pkcs12 en la base de datos.                                    |
+| `db_connect`       | Se conecta a un servicio de datos existente.                                                      |
+| `db_disconnect`    | Se desconecta del servicio de datos actual.                                                       |
+| `db_export`        | Exporta un archivo con el contenido de la base de datos.                                          |
+| `db_import`        | Importa un archivo de resultados de escaneo (el tipo de archivo se detectará automáticamente).    |
+| `db_nmap`          | Ejecuta nmap y guarda la salida automáticamente.                                                  |
+| `db_rebuild_cache` | Reconstruye la caché de módulos almacenada en la base de datos (obsoleto).                        |
+| `db_remove`        | Elimina la entrada guardada del servicio de datos.                                                |
+| `db_save`          | Guarda la conexión actual del servicio de datos como la predeterminada para reconectar al inicio. |
+| `db_stats`         | Muestra estadísticas de la base de datos.                                                         |
+| `db_status`        | Muestra el estado actual del servicio de datos.                                                   |
+| `hosts`            | Lista todos los hosts en la base de datos.                                                        |
+| `klist`            | Lista los tickets Kerberos en la base de datos.                                                   |
+| `loot`             | Lista todo el _loot_ (botín) en la base de datos.                                                 |
+| `notes`            | Lista todas las notas en la base de datos.                                                        |
+| `services`         | Lista todos los servicios en la base de datos.                                                    |
+| `vulns`            | Lista todas las vulnerabilidades en la base de datos.                                             |
+| `workspace`        | Cambia entre espacios de trabajo de la base de datos.                                             |
 
 ### Comandos del Backend de Credenciales
 
